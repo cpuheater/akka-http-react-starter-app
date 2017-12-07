@@ -1,0 +1,71 @@
+body {
+    background: white;
+    font-size: 14px;
+    color: #333;
+}
+
+[data-reactroot] {height: 100% !important; }
+
+a,
+a:focus,
+a:hover {
+    color: #333;
+}
+
+.navbar-inverse {
+    background-color: #333;
+    border-color: #333;
+}
+
+.navbar {
+   margin-bottom: 5px;
+}
+
+
+.header,
+.marketing,
+.footer {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+.header {
+    padding-bottom: 20px;
+}
+
+.header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+}
+
+
+.header {
+    padding-bottom: 10px;
+    border-bottom: none;
+}
+
+.nav>li>a {
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+
+.nav>li {
+    margin-left: 20px;
+}
+
+.nav > li {
+    float: left;
+}
+
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: transparent;
+    color: cornflowerblue;
+}
+

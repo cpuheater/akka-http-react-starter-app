@@ -1,0 +1,1 @@
+sbt "project backend" "run"
