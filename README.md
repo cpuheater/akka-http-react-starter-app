@@ -1,5 +1,5 @@
 # akka-http-react-starter-app #
-A starter application written in scala and es6.
+A starter application written in Scala and ES6.
 It uses akka-http as a backend and react as frontend.
 
 
