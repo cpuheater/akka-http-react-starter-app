@@ -21,6 +21,7 @@ Frontend
 - http-proxy-middleware to proxy 
 - redux thunk - used in async actions
 - axios promise based HTTP client
+- webpack-hot-middleware for hot reloading
 
 ## Run
 
